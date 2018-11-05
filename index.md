@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+---
+title: Overview
+---
 
-You can use the [editor on GitHub](https://github.com/simpl-project/simpl-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mit der zunehmenden Vernetzung im Internet der Dinge (IoT) stellt die sichere Kommunikation eine immer
+größere Herausforderung dar. Mit SIMPL soll eine, speziell auf die Bedürfnisse von lose gekoppelten
+Systemen im IoT zugeschnitte, Lösung für sichere Kommunikation entwickelt werden.
+SIMPL soll unabhängig von der eingesetzten Kommunikationsmiddleware sein, um so einen Vendor-Lockin
+bei einem Plattform as a Service Anbieter zu vermeiden und einen Parallelbetrieb von sicherer und
+unsicherere Kommunikation zu ermöglichen, so dass Systeme schrittweise erweitert und migriert werden
+können.
+Ziel von SIMPL ist es eine Sicherheitslösung für IoT-Systeme zu realisieren, die sich durch folgende
+Innovationen auszeichnet:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Als Security-Overlay ermöglicht SIMPL, die bestehende eventbasierte Middleware unverändert weiter
+nutzen zu können
+* Die hohe Dynamik von IoT-Systemen mit wechselnden Kommunikationsteilnehmern wird berücksichtigt
+* SIMPL unterstützt gezielt ressourcen-eingeschränkte und mobile Systeme, wie sie im IoT häufig
+vorkommen.
 
-### Markdown
+Um diese Ziele zu erreichen, werden existierende Sicherheitsverfahren auf ihre Anwendbarkeit untersucht
+und in das SIMPL Gesamtsystem integriert. Eine für das IoT-System zuständige Managementinstanz
+übernimmt die dynamische Konfiguration und Überwachung und zwar unabhängig von der eingesetzten
+Middleware. Die erarbeiteten Konzepte werden in einer Machbarkeitsstudie implementiert und in
+verschiedenen Anwendungsfällen demonstriert und evaluiert.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Funded by
 
-```markdown
-Syntax highlighted code block
+<ul class="partners">
+    <li>
+        <a href="http://www.bmbf.de"><img src="/assets/images/logo-bmbf.svg" alt="Logo BMBF" /></a>
+        BMBF - Bundesministerium für Bildung und Forschung<br>
+        <a href="http://www.bmbf.de">www.bmbf.de</a>
+    </li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simpl-project/simpl-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

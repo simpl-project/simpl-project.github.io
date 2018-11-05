@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+
+# Site settings
+title: SIMPL
+email: info@infosim.net
+description: Secure Internet of Things Management Platform
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://simpl-project.github.io" # the base hostname & protocol for your site
+github_username:  simpl-project
+logo: assets/images/logo-simpl.svg
+
