@@ -7,5 +7,6 @@ description: Secure Internet of Things Management Platform
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://simpl-project.github.io" # the base hostname & protocol for your site
 github_username:  simpl-project
+repository: simpl-project/simpl-project.github.io
 logo: assets/images/logo-simpl.svg
 
