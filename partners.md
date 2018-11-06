@@ -2,6 +2,7 @@
 layout: page
 title: Partners
 permalink: /partners/
+position: 60
 ---
 <ul class="partners">
     <li>

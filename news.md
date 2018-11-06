@@ -2,6 +2,7 @@
 layout: page
 title: News
 permalink: /news/
+position: 10
 ---
 
 ## Poster at BMBF-Mittelstandskonferenz 2018 in Berlin
