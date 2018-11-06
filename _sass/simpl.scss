@@ -68,5 +68,9 @@ header ul {
         color: $link-color;
         background-color: $grey-color-light;
     }
+
+    li + li + li {
+        width: auto;
+    }
 }
 
