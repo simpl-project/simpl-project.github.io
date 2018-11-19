@@ -51,7 +51,7 @@ The developed concepts are implemented in a feasibility study and subsequently d
         BMBF - Bundesministerium für Bildung und Forschung<br>
         (Federal Ministry of Education and Research)<br>
         <a href="http://www.bmbf.de">www.bmbf.de</a><br>
-        Duration: from July 2018 to May 2021
+        Duration: from July 2018 to June 2021
     </li>
 </ul>
 
