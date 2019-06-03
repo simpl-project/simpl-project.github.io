@@ -47,7 +47,7 @@ The developed concepts are implemented in a feasibility study and subsequently d
 
 <ul class="partners">
     <li>
-        <a href="http://www.bmbf.de"><img src="/assets/images/logo-bmbf.svg" alt="Logo BMBF" /></a>
+        <a href="http://www.bmbf.de"><img src="/assets/images/BMBF_gefoerdert_2017_en.svg" alt="Logo BMBF" /></a>
         BMBF - Bundesministerium für Bildung und Forschung<br>
         (Federal Ministry of Education and Research)<br>
         <a href="http://www.bmbf.de">www.bmbf.de</a><br>
