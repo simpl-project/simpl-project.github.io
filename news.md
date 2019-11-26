@@ -9,6 +9,7 @@ position: 10
 
 ## Erfolgreiche Papereinreichung auf der ITC 31
 First SIMPL publication „Discrete-Time Analysis of the Blockchain Distributed Ledger Technology” got accepted by the INTERNATIONAL TELETRAFFIC CONGRESS ITC 31.
+The conference takes place from 27th to 29th of August 2019 in Budapest.
 
 Link to the [conference webpage]( https://itc31.org/)
 
