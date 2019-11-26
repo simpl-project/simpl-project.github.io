@@ -6,6 +6,7 @@ position: 10
 ---
 
 
+
 ## Erfolgreiche Papereinreichung auf der ITC 31
 First SIMPL publication „Discrete-Time Analysis of the Blockchain Distributed Ledger Technology” got accepted by the INTERNATIONAL TELETRAFFIC CONGRESS ITC 31.
 
