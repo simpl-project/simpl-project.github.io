@@ -6,13 +6,13 @@ position: 10
 ---
 
 
-## "Performance Impact Analysis of Securing MQTT Using TLS" paper accpeted at ICPE (2021)
+## "Performance Impact Analysis of Securing MQTT Using TLS" paper accepted at ICPE (2021)
 An analysis of the performance impact of securing MQTT using TLS was accepted at ICPE 2021.
 The online conference take place from 19th to 23th of April 2021.
 
 Link to the [conference webpage](https://icpe2021.spec.org/)
 
-## "Towards a Group Encryption Scheme Benchmark: A View on Centralized Schemes with focus on IoT" paper accpeted at ICPE (2021)
+## "Towards a Group Encryption Scheme Benchmark: A View on Centralized Schemes with focus on IoT" paper accepted at ICPE (2021)
 A benchmark for centralized group encryption schemes with a focus on IoT was accepted at ICPE 2021.
 The online conference take place from 19th to 23th of April 2021.
 
